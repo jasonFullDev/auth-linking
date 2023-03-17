@@ -1,6 +1,6 @@
 {
   "name": "auth-linking",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auto Deep linking with Authentication Flow",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -33,13 +33,13 @@
     "android",
     "auth-linking"
   ],
-  "repository": "https://github.com/itweb62/auth-linking",
+  "repository": "https://github.com/jasonFullDev/auth-linking",
   "author": "Sohel Islam Imran <sohelislamimran@gmail.com> (https://github.com/SohelIslamImran)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SohelIslamImran/auth-linking/issues"
   },
-  "homepage": "https://github.com/itweb62/auth-linking#readme",
+  "homepage": "https://github.com/jasonFullDev/auth-linking#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
